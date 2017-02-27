@@ -1,0 +1,28 @@
+<script>
+
+var person = new Object();
+person.name = "Nicholas";
+person.age  =29;
+person.job = "Software Engineer";
+
+//person.sayName();
+person.sayName = function(){
+	alert(this.name);
+
+};
+
+person.sayName();
+//另外一种写法
+ var person  = {
+	name:"Nicholas",
+	age:29,
+	job:"Software Engineer",
+	sayJob:function(){
+		alert(this.job);
+	}
+ };
+person.sayJob();
+//person.age;
+
+
+</script>
