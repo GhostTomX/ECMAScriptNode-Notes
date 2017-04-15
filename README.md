@@ -1,4 +1,4 @@
-# js入门书 JavaScript高级程序设1`
+# js入门书 - JavaScript高级程序设计
 
 # 第06章：面向对象的程序设计 笔记
 
