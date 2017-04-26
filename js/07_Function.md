@@ -10,7 +10,8 @@
 
 [深入理解JS 执行细节](http://www.cnblogs.com/onepixel/p/5090799.html)
 
- ####第一部分 函数![](notes/fu1.jpg)
+####第一部分 函数
+![](notes/fu1.jpg)
 
 #### 第二部分 递归
 

@@ -9,7 +9,7 @@
 - https://github.com/livoras/blog/issues/11
 - [Servlet & JSP教學手冊(第二版)](http://www.books.com.tw/products/0010515154) chapter 1.2.3
 
-###![](notes/mv1.jpg)
+![](notes/mv1.jpg)
 
 ![](notes/mv2.jpg)
 
