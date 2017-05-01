@@ -1,19 +1,24 @@
 # 笔记-Node/js
 
-经过测试，对本人来说还是记笔记的传统方法最有效果。因此将图片照片传上来方便查阅。如果有人能看懂我的蜜汁笔记也算是分享。
+学习Node/js的笔记
+
+经过测试，对本人来说，比较复杂的部分还是记笔记的传统方法最有效果。因此将图片照片传上来方便查阅。如果有人能看懂我的蜜汁笔记也算是分享。
+
+比较简单的总结归纳与概念就是md文档。
 
 目录
 
 - JS
 
-  - [06_Object](https://github.com/GhostTomX/ECMAScriptNode-Notes/blob/master/js/06_Object.md)
+  - [06_Object（图片笔记）](https://github.com/GhostTomX/ECMAScriptNode-Notes/blob/master/js/06_Object.md)
     - 对象
     - 继承（原型链）
-  - [07_Function](https://github.com/GhostTomX/ECMAScriptNode-Notes/blob/master/js/07_Function.md)
+  - [07_Function（图片笔记）](https://github.com/GhostTomX/ECMAScriptNode-Notes/blob/master/js/07_Function.md)
     - 函数
     - 递归
     - 小括号特殊用法
     - 闭包深入细节
+    - [this](https://github.com/GhostTomX/ECMAScriptNode-Notes/blob/master/js/07_Function_this.md)
 
 - node
 
