@@ -23,6 +23,9 @@
 - node
 
   - [异步回调与循环](https://github.com/GhostTomX/ECMAScriptNode-Notes/blob/master/node/%E5%BC%82%E6%AD%A5%E5%9B%9E%E8%B0%83%E4%B8%8E%E5%BE%AA%E7%8E%AF.md)
+    - 利用闭包
+    - 利用第三方流程管理
+    - Promise
 
 - Other
 
