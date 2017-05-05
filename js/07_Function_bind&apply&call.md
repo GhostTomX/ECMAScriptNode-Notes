@@ -4,6 +4,7 @@
 
 - [MDN](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Global_Objects/Function/bind)
 - [深入浅出妙用 Javascript 中 apply、call、bind](http://web.jobbole.com/83642/)
+- [Javascript call() & apply() vs bind()?](http://stackoverflow.com/questions/15455009/javascript-call-apply-vs-bind)
 
 今天开始写js的数据结构，遇到了这个bind()的保护私有变量的用法，之前在看nodejs的http的源码也见到了bind()，因此就仔细了解了一下。
 

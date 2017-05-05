@@ -15,10 +15,16 @@
     - 继承（原型链）
   - [07_Function（图片笔记）](https://github.com/GhostTomX/ECMAScriptNode-Notes/blob/master/js/07_Function.md)
     - 函数
+
     - 递归
+
     - 小括号特殊用法
+
     - 闭包深入细节
+
     - [this](https://github.com/GhostTomX/ECMAScriptNode-Notes/blob/master/js/07_Function_this.md)
+
+    - [bind()&apply&call](https://github.com/GhostTomX/ECMAScriptNode-Notes/blob/master/js/07_Function_bind%26apply%26call.md)
 
 - node
 
